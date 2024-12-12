@@ -1,0 +1,33 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "cmake.sourceDirectory": "/home/r/Mysoftware/TARE/src/tare_planner",
+    "files.associations": {
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "__node_handle": "cpp",
+        "*.ipp": "cpp",
+        "hash_map": "cpp",
+        "hash_set": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "any": "cpp",
+        "system_error": "cpp",
+        "__hash_table": "cpp",
+        "__split_buffer": "cpp",
+        "__tree": "cpp",
+        "atomic": "cpp",
+        "filesystem": "cpp",
+        "ios": "cpp",
+        "map": "cpp",
+        "set": "cpp"
+    }
+}
