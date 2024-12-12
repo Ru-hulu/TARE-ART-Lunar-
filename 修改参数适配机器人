@@ -33,7 +33,8 @@ adjacentRange：碰撞检测的最大范围(并不是最终的范围)，在这�
 	double groundHeightThre = 0.08;	   ---      地面高度阈值
 	yawRateGain、stopYawRateGain角加速度(度)
 	maxYawRate 最大角速度(度)
-	
+修改探索范围：
+	boundary.ply文件中，逆时针输入4个坐标，第5个点的坐标与第一个相同。  
 从手动控制模式切换为自动控制模式后，需要手动给一个点。
 长按中心键，从自动模式切换为手动模式
 右遥感给速度
